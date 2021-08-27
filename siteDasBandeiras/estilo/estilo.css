@@ -1,0 +1,62 @@
+.header-2 ul li{
+    display: inline-block;
+    color: #31445C;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 45px;
+}
+.header-2 ul li:hover{
+   border-bottom: 3px solid #597CA9;
+}
+.header-2 ul li a:hover{
+   color: #74A2DC;
+}
+.header-2 ul li a{
+   color: #74A2DC;
+   text-decoration: none;
+   font-size: 1rem;
+   text-transform: uppercase;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header-2{
+    padding: 10px 28px 50px 0px;
+    text-align: center;
+}
+img{
+    width:50%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: #BBCCE2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.4rem;
+}
+p{
+    text-align: center;
+    color: #74A2DC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
+.hinos img{
+    width: 400px;
+    height: 220px;
+}
+.h1{
+    color: #BBCCE2;
+}
+body{
+    background-color: #484D50;
+}
+
+.corpo{
+    display: block;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+}
